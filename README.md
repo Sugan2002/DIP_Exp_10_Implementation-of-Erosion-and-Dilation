@@ -1,4 +1,7 @@
-# Implementation-of-Erosion-and-Dilation
+## EX NO : 10
+## Date : 
+# <p align="center"> Implementation of Erosion and Dilation </P>
+
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
@@ -65,6 +68,8 @@ plt.axis('off')
 
 ![o1](https://user-images.githubusercontent.com/77089743/172055653-96aeb217-33db-4e6f-ad8a-551b212ea167.PNG)
 
+</br>
+</br>
 
 ### Display the Eroded Image
 
